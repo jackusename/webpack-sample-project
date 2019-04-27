@@ -1,0 +1,16 @@
+{
+    "name": "webpack-sample-project",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "start": "webpack --mode development",
+        "server": "webpack-dev-server --open"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "webpack": "^4.30.0",
+        "webpack-cli": "^3.3.1",
+        "webpack-dev-server": "^3.3.1"
+    }
+}
